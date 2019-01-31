@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css?family=Lora|Major+Mono+Display|Roboto+Mono');
+h1 {
+    color: #1D4E89;
+}
+
+body {
+    background-color: #414361;
+
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+ul {
+    list-style: none;
+}
+
+#leftcol {
+    background-color: #7F2CCB;
+    width: 8cm;
+    height: 200vh;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+#profilepic {
+    border-radius: 200cm;
+}
+
+#dlo {
+    font-family: Major,Mono,Display;
+    font-size: 50;
+    color: #14713B;
+}
+
+a {
+    color: #9E788F;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #A9B3CE;
+}
+
+#email{
+    font-family: Roboto  Mono;
+}
+/**********OBJECTIVE********/
+
+#objective {
+    text-align:center;
+}
+
+#objective h2 {
+    color: #7F2CCB;
+}
+
+#join {
+    margin-left: 630;
+    text-align: center;
+}
+
+/**********WORK********/
+
+#work h2 {
+    color: #7F2CCB;
+}
+
+/**********EDUCATION********/
+#education h2 {
+    color: #7F2CCB;
+}
+
+/**********SEMINARSATTENDED********/
+#seminars h2 {
+    color: #7F2CCB;
+}
+
+/*********COCUACTIVITIES********/
+#cocu h2 {
+    color: #7F2CCB;
+}
+
+/**********SEMCONDUCTED********/
+#semcondu h2 {
+    color: #7F2CCB;
+}
+
+/**********RESEARCH********/
+#research h2 {
+    color: #7F2CCB;
+}
+
+/**********PBACK********/
+#Pback h2 {
+    color: #7F2CCB;
+}
+
+/**********REFERENCE********/
+#refe h2 {
+    color: #7F2CCB;
+}
+
+
+p {
+    font-family: sans-serif;
+} 
