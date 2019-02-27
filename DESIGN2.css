@@ -1,0 +1,65 @@
+body {
+    background-color: #363b74;
+    margin-left:
+
+}
+
+.hi {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    background-color: darkslategray;
+
+}
+
+img {
+
+    border: 20px solid #021a40;
+    border-radius: 10px;
+}
+
+.ty {
+    background-color: #673888;
+}
+
+
+.column {
+    float: left;
+    width: 33.33%;
+    text-align: center;
+}
+
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.flak img {
+    width: 300px;
+    height: 300px;
+}
+
+.column2 {
+    float: left;
+    width: 33.33%;
+    text-align: center;
+}
+
+
+.row2:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.fak {
+    text-align: center;
+     display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
